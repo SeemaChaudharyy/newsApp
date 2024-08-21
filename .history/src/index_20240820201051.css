@@ -1,0 +1,30 @@
+code{
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  monospace;
+}
+nav{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  background-color: lightblue;
+  padding: 9px; 
+}
+nav input{
+  width: 250px;
+  text-decoration: none;
+  padding: 9px;
+  font-size: 18px;
+  border: none;
+}
+.searchbar{
+  display: flex;
+  align-items: center;
+  gap: 11px;
+}
+nav button{
+  width: 70px;
+  height: 38px;
+  background-color: blue;
+  border: none;
+  border-radius: 
+}
